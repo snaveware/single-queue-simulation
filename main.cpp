@@ -1,3 +1,7 @@
+/**
+ * Main.cpp
+ * Contains main function
+*/
 #include <iostream>
 #include <string>
 #include<sstream>

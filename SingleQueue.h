@@ -1,4 +1,13 @@
+/**
+ * 
+ * ----- Github Repository -----
+ * https://github.com/evans-work/single-queue-simulation.git
+*/
 
+/**
+ * SingleQueue.h
+ * Header file containing definitions required for the simulation
+*/
 #include <string>
 #include <vector>
 
